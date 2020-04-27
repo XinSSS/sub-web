@@ -265,6 +265,11 @@ export default {
                 label: "Urltest",
                 value:
                   "https://subconverter.s3-ap-southeast-1.amazonaws.com/RemoteConfig/universal/urltest.ini"
+              },
+              {
+                label: "XinSSS",
+                value:
+                  "https://raw.githubusercontent.com/XinSSS/Conf-for-Surge-Shadowrocket/master/configFileHere/Generate.ini"
               }
             ]
           },
